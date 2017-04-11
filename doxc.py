@@ -1,4 +1,5 @@
 # coding: utf8
+#есть смысл переделать под пи3
 from docx import Document
 document = Document('1.docx')
 fileProblems = open('bad.txt','w')
